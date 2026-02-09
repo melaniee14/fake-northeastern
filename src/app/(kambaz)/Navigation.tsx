@@ -27,7 +27,7 @@ export default function KambazNavigation() {
      </ListGroupItem>
 
      <ListGroupItem className="border-0 bg-white text-center">
-       <Link href="/dashboard" id="wd-dashboard-link" className="text-danger text-decoration-none">
+       <Link href="" id="wd-dashboard-link" className="text-danger text-decoration-none">
          <AiOutlineDashboard className="fs-1 text-danger" />
          <br />
          Dashboard
@@ -43,7 +43,7 @@ export default function KambazNavigation() {
      </ListGroupItem>
 
      <ListGroupItem className="border-0 bg-black text-center">
-       <Link href="/calendar" id="wd-calendar-link" className="text-white text-decoration-none">
+       <Link href="" id="wd-calendar-link" className="text-white text-decoration-none">
          <IoCalendarOutline className="fs-1 text-danger" />
          <br />
          Calendar
@@ -51,7 +51,7 @@ export default function KambazNavigation() {
      </ListGroupItem>
 
      <ListGroupItem className="border-0 bg-black text-center">
-       <Link href="/inbox" id="wd-inbox-link" className="text-white text-decoration-none">
+       <Link href="" id="wd-inbox-link" className="text-white text-decoration-none">
          <FaInbox className="fs-1 text-danger" />
          <br />
          Inbox
@@ -59,7 +59,7 @@ export default function KambazNavigation() {
      </ListGroupItem>
 
      <ListGroupItem className="border-0 bg-black text-center">
-       <Link href="/labs" id="wd-labs-link" className="text-white text-decoration-none">
+       <Link href="" id="wd-labs-link" className="text-white text-decoration-none">
          <GoGear className="fs-1 text-danger" />
          <br />
          Labs

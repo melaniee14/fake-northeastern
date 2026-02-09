@@ -11,7 +11,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/1234/home" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/reactjs.jpg" width="100%" height={160}/>
               <CardBody>
@@ -26,7 +26,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/hello/home" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/miffy.jpg" width="100%" height={160}/>
               <CardBody>
@@ -56,7 +56,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/smiski" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/smiski.jpg" width="100%" height={160}/>
               <CardBody>
@@ -71,7 +71,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/matcha" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/matcha.jpg" width="100%" height={160}/>
               <CardBody>
@@ -86,7 +86,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/pink" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/pink.jpg" width="100%" height={160}/>
               <CardBody>
@@ -101,7 +101,7 @@ export default function Dashboard() {
 
         <Col className="wd-dashboard-course"  style={{ width: "300px" }}>
           <Card>
-            <Link href="/courses/HTML" 
+            <Link href="" 
                     className="wd-dashboard-course-link text-decoration-none text-dark">
               <CardImg variant="top" src="/images/dev.jpg" width="100%" height={160}/>
               <CardBody>

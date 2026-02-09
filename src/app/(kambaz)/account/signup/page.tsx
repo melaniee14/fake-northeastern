@@ -4,6 +4,9 @@ export default function Signup() {
   return (
     <div id="wd-signup-screen">
       <h3>Sign up</h3>
+      <form>
+
+      <fieldset disabled>
       <FormControl id="wd-username"
           placeholder="username"
           className="mb-2" />
@@ -17,6 +20,9 @@ export default function Signup() {
             href="/account/profile"
             className="btn btn-primary w-100 mb-2">
             Sign up </Link>
+            </fieldset>
       <Link  href="signin" > Sign in </Link>
+      </form>
+      
     </div>
 );}

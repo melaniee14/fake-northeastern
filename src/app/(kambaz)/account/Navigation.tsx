@@ -8,7 +8,7 @@ export default function AccountNavigation() {
      className="list-group-item active border-0"> Signin </Link>
      <Link href="signup" 
      className="list-group-item text-danger border-0"> Signup </Link> 
-     <Link href="profile"
+     <Link href=""
      className="list-group-item text-danger border-0"> Profile </Link> 
    </div>
 );}
