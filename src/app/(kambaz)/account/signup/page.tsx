@@ -21,7 +21,7 @@ export default function Signup() {
             className="btn btn-primary w-100 mb-2">
             Sign up </Link>
             </fieldset>
-      <Link  href="signin" > Sign in </Link>
+      <Link  href="" > Sign in </Link>
       </form>
       
     </div>

@@ -34,7 +34,7 @@ export default function KambazNavigation() {
        </Link>
      </ListGroupItem>
 
-     <ListGroupItem className="border-0 bg-black text-center">
+      <ListGroupItem className="border-0 bg-black text-center">
        <Link href="/dashboard" id="wd-course-link" className="text-white text-decoration-none">
          <AiOutlineBook className="fs-1 text-danger" />
          <br />
@@ -56,17 +56,7 @@ export default function KambazNavigation() {
          <br />
          Inbox
        </Link>
-     </ListGroupItem>
-
-     <ListGroupItem className="border-0 bg-black text-center">
-       <Link href="" id="wd-labs-link" className="text-white text-decoration-none">
-         <GoGear className="fs-1 text-danger" />
-         <br />
-         Labs
-       </Link>
-     </ListGroupItem>
-
-
+     </ListGroupItem> 
 
     </ListGroup>
 
